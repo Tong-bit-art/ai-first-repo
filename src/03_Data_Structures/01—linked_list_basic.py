@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2026/3/19
-# @Author  : 你的名字
+# @Author  : 马彤
 # @File    : 01_linked_list_basic.py
 # @Desc    : 单向链表的基础实现（增、删、查、遍历）
 
